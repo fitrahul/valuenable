@@ -30,9 +30,14 @@ To run this application on your local system, execute the following commands on 
   
 ## A Glimpse of our website
 
-1. Dashboard page-
+1. Signup page-
+![signup](https://user-images.githubusercontent.com/87421972/155700235-bfb4028c-e62a-4b62-adfb-0194c9486153.png)
 
 2. Login page-
+![login](https://user-images.githubusercontent.com/87421972/155700283-8d60b170-0ec9-4da6-9e60-566710c3b58d.png)
+
+3. User detail page-
+![user](https://user-images.githubusercontent.com/87421972/155700368-1524fa75-9b89-41e7-96cd-be04d1375d65.png)
 
 
   ## Tech Stack-
