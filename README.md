@@ -1,20 +1,18 @@
-# Student-Management-System
+# Signup and Login
 
-> This app consist student dashboard and Admin dashboard. Student can see contets on their dashboard and admin can see the contset as well as students on their dashboard.
+> This is simple app where user can signup and login. After login user redirected to dashboard where he can see there details.
 
 ## Features
 
-- Sorting of contest according to types of contest and sorting of student accordint to name as well as age
-- Sign-in for admin
-- Admin can add, patch and delete student
-- Admin can add contest
+- Sign-up and Sign-in for admin, moderator and users
+- Dashboard is visible after login only
 
 ## Installing and running the app in pc
 
 <!-- <hr> -->
 To run this application on your local system, execute the following commands on your terminal/command line:
 
-<code>https://github.com/fitrahul/Student-Management-System.git</code>
+<code>https://github.com/fitrahul/valuenable</code>
 
   ### It has two folders-
   
@@ -33,27 +31,9 @@ To run this application on your local system, execute the following commands on 
 ## A Glimpse of our website
 
 1. Dashboard page-
-![student-contests](https://user-images.githubusercontent.com/87421972/149519503-73c5fdcb-0d44-49bf-8fe1-5114c1192d27.png)
-![dsa](https://user-images.githubusercontent.com/87421972/149519609-fffc2e30-52e7-4f3a-962a-ccd09c5d72e6.png)
-![coading](https://user-images.githubusercontent.com/87421972/149519628-6833b3e2-477c-4543-900f-4598e8b5efaf.png)
 
 2. Login page-
-![login](https://user-images.githubusercontent.com/87421972/149519659-bc354546-10e7-4eed-a135-f17f9d36bf26.png)
 
-3. Student list page-
-![student-list](https://user-images.githubusercontent.com/87421972/149519704-db7f413e-73fa-4fc3-bc7a-66f9fe48860b.png)
-
-4. Student update page-
-![update-student](https://user-images.githubusercontent.com/87421972/149519722-ef62446c-0edd-4ffb-a3ed-909ca3e2e498.png)
-
-5. Student adding page-
-![add-students](https://user-images.githubusercontent.com/87421972/149519758-a18ad083-4de5-4ceb-be99-96d33a8b2fcd.png)
-
-6. Contests page-
-![admin-contests](https://user-images.githubusercontent.com/87421972/149519834-d12ba4d7-cb78-4b63-9eb3-dec26ead7c1b.png)
-
-7. Contests adding page-
-  ![add-contest](https://user-images.githubusercontent.com/87421972/149519853-50d57929-f0c6-4724-805e-18201457e742.png)
 
   ## Tech Stack-
 
